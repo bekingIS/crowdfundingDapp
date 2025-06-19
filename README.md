@@ -24,6 +24,6 @@ Frontend-сервис обеспечивает:
 ## 🔧 Установка
 
 ```bash
-git clone https://github.com/твой-логин/frontend.git
+git clone https://github.com/bekingIS/crowdfundingDapp.git
 cd frontend
 npm install
